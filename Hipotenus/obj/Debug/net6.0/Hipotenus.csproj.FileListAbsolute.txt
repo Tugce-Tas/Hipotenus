@@ -1,0 +1,15 @@
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.csproj.AssemblyReference.cache
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.AssemblyInfoInputs.cache
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.AssemblyInfo.cs
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.csproj.CoreCompileInputs.cache
+E:\Development\Hipotenus\Hipotenus\bin\Debug\net6.0\Hipotenus.exe
+E:\Development\Hipotenus\Hipotenus\bin\Debug\net6.0\Hipotenus.deps.json
+E:\Development\Hipotenus\Hipotenus\bin\Debug\net6.0\Hipotenus.runtimeconfig.json
+E:\Development\Hipotenus\Hipotenus\bin\Debug\net6.0\Hipotenus.dll
+E:\Development\Hipotenus\Hipotenus\bin\Debug\net6.0\Hipotenus.pdb
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.dll
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\refint\Hipotenus.dll
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.pdb
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\Hipotenus.genruntimeconfig.cache
+E:\Development\Hipotenus\Hipotenus\obj\Debug\net6.0\ref\Hipotenus.dll
